@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Archive>
+  <Name>Bot Manager</Name>
+  <PackageName>com.whiztech.botmanager</PackageName>
+  <PackageVersionCode>1</PackageVersionCode>
+  <PackageVersionName>1.0</PackageVersionName>
+  <PackageFormat>apk</PackageFormat>
+  <CreationDate>638564108167109875</CreationDate>
+  <SolutionName>WhizTechBotManagerMobile</SolutionName>
+  <SolutionPath>C:\Users\wte15\source\repos\WhizTechBotManagerMobile\WhizTechBotManagerMobile.sln</SolutionPath>
+  <Status></Status>
+  <MinSdkVersion>21</MinSdkVersion>
+  <LastUsedKeystore>\Users\wte15\source\repos\WhizTechBotManagerMobile\key.store</LastUsedKeystore>
+  <Configuration>
+    <DebugMode>false</DebugMode>
+  </Configuration>
+</Archive>
